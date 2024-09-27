@@ -5,7 +5,7 @@ A proof of concept to scrape papers from journals
 ## Install
 
 ```bash
-pip install git+https://github.com/blackadad/paper-scraper.git
+pip install git+https://github.com/ichxw/paper-scraper.git
 ```
 
 ## Usage
